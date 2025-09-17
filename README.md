@@ -30,7 +30,7 @@ Desarrollar un sistema de clasificación de fresas en cuatro categorías princip
 Proyecto desarrollado en clase de **Visión artificial** por:  
 
 - [Leonard David Vivas Dallos](https://github.com/leodavid0109)  
-- [Tomás Escobar Rivera] 
-- [Sahely Valentina Romero Castillo]
-- [Juan Pablo Mejía Gómez]
-- [Juan Simón Zapata Monsalve]
+- Tomás Escobar Rivera
+- Sahely Valentina Romero Castillo
+- Juan Pablo Mejía Gómez
+- Juan Simón Zapata Monsalve
